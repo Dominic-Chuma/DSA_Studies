@@ -1,1 +1,3 @@
 # Top 25 Algorithms Every Programmer Must Know......
+
+Good knowledge of standard algorithms is equally important as choosing the right data structure.
