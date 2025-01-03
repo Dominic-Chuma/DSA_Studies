@@ -5,3 +5,4 @@ The following is a list of the top 25 algorithms every programmer and computer s
 
 ## ============== Searching Algorithms ==================
 1. ***Binary Search Algorithm.***
+It is a
