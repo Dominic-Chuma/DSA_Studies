@@ -26,6 +26,6 @@ It is a
 
 
 
-_______________ References _______________
+## _______________ References _______________
 
 GeekforGeeks (2024, December 11). Searching Algorithms. Retrieved from GeekforGeeks: https://www.geeksforgeeks.org/searching-algorithms/
