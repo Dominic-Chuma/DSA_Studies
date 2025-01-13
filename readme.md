@@ -16,7 +16,24 @@ such as databases, web search engines, and more. <br>
 Linear search is also known as *Sequential search.* 
 Given an array of elements and say, an element (like an integer or a character)
 This search involves itereating over/moving over all the elements in the array 
-comparing every element in that array with the given integer or character.
+,comparing every element in that array with the given integer or character.<br>
+A typical situation would require us to return the position of the 1st 
+array element observed to be the same with the given element, by comparison
+or return -1, if the given element is not the same with any element in 
+the array. <br>
+
+An example in Python is seen below.
+
+`
+def search(arr, N, x):
+
+    for i in range(0, N):
+        if (arr[i] == x):
+            return i
+    return -1
+
+`
+
 
 
 
