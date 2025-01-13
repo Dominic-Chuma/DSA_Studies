@@ -8,6 +8,9 @@ Searching algorithms are essential tools in computer science used to
 locate specific items within a collection of data. These algorithms are 
 designed to efficiently navigate through data structures to find the 
 desired information, making them fundamental in various applications 
-such as databases, web search engines, and more. GeekforGeeks - Searching Algorithms (2024)
+such as databases, web search engines, and more. 
+GeekforGeeks - Searching Algorithms (2024).
+
+
 1. ***Binary Search Algorithm.***
 It is a
