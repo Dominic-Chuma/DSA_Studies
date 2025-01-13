@@ -12,5 +12,20 @@ such as databases, web search engines, and more. <br>
 [*GeekforGeeks - Searching Algorithms (2024)*.](https://www.geeksforgeeks.org/searching-algorithms/)
 
 
-1. ***Binary Search Algorithm.***
+1. ***Linear Search Algorithm.***
+Linear search is also known as *Sequential search.* 
+Given an array of elements and say, an element (like an integer or a character)
+This search involves itereating over/moving over all the elements in the array 
+comparing every element in that array with the given integer or character.
+
+
+
+2. ***Binary Search Algorithm.***
 It is a
+
+
+
+
+_______________ References _______________
+
+GeekforGeeks (2024, December 11). Searching Algorithms. Retrieved from GeekforGeeks: https://www.geeksforgeeks.org/searching-algorithms/
