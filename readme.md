@@ -22,13 +22,8 @@ array element observed to be the same with the given element, by comparison
 or return -1, if the given element is not the same with any element in 
 the array. <br>
 
-An example in Python is seen below.
+An example in Python is seen in the "Linear_Search" folder.
 
-`def search(arr, N, x):
-    for i in range(0, N):
-        if (arr[i] == x):
-            return i
-    return -1`
 
 
 
